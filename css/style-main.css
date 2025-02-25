@@ -7536,7 +7536,8 @@ blockquote p {
   text-decoration: none;
   box-shadow: 0px -2px 10px rgba(0, 0, 0, 0.2);
   z-index: 999;
-  display: none; 
+  display: none;
+  
 }
 
 .floating-donate-btn i {
