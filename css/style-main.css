@@ -7555,3 +7555,10 @@ blockquote p {
     display: block;
   }
 }
+
+
+@media (max-width: 991px) { 
+  #footer {
+    padding-bottom: 60px; 
+  }
+}
