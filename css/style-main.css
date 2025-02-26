@@ -1,13 +1,6 @@
 @charset "utf-8";
 /*------------------------------------------------------------------
-[Master Stylesheet]
 
-Project:        mvi-horse
-Version:        1.0
-Last change:    03.29.2016
-Primary use:    Royalspa Health & Beauty Business Template
-Author:         ThemeMascot
-URL:            http://themeforest.net/user/ThemeMascot
 -------------------------------------------------------------------*/
 /*
 This file contains the common styles of this theme.
@@ -83,10 +76,12 @@ This file contains the common styles of this theme.
 @import "flaticon-set-charity.css";
 @import "utility-classes.css";
 @import url(https://fonts.googleapis.com/css?family=Roboto+Slab:400,700,300,100);
-/* @import url(https://fonts.googleapis.com/css?family=Droid+Sans:400,700); */
+@import url(https://fonts.googleapis.com/css?family=Droid+Sans:400,700); 
 @import url(https://fonts.googleapis.com/css?family=Open+Sans:400,300,600,700,800);
 @import url(https://fonts.googleapis.com/css?family=Raleway:400,200,300,500,600,700,800,900);
-@import url(https://fonts.googleapis.com/css?family=Playfair+Display:400,700,900,700italic,400italic);
+@import url(https://fonts.googleapis.com/css?family=Playfair+Display:400,700,900,700italic,400italic); 
+
+
 /*
  * Typography.less
  * -----------------------------------------------
