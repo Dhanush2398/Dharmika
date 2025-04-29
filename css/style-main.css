@@ -7909,3 +7909,65 @@ h2 {
   background: #E64A19;
 }
 
+.dhf-donation-section {
+  max-width: 700px;
+  margin: 40px auto;
+  padding: 30px;
+  background-color: #ffffff;
+  border-radius: 10px;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+}
+
+.dhf-donation-section h2 {
+  text-align: center;
+  color: #5b3baf;
+  margin-bottom: 10px;
+}
+
+.dhf-description {
+  text-align: center;
+  color: #555;
+  margin-bottom: 30px;
+}
+
+.dhf-donation-details {
+  font-size: 16px;
+  color: #333;
+}
+
+.dhf-row {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 10px;
+  flex-wrap: wrap;
+}
+
+.dhf-label {
+  font-weight: bold;
+  color: #000;
+  min-width: 160px;
+  flex: 1;
+}
+
+.dhf-value {
+  flex: 2;
+}
+
+.dhf-note {
+  margin-top: 30px;
+  font-style: italic;
+  color: #777;
+  font-size: 15px;
+}
+
+@media screen and (max-width: 600px) {
+  .dhf-row {
+    flex-direction: column;
+  }
+
+  .dhf-label,
+  .dhf-value {
+    flex: unset;
+    width: 100%;
+  }
+}
