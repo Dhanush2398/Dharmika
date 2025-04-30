@@ -7947,10 +7947,14 @@ h2 {
   color: #000;
   min-width: 160px;
   flex: 1;
+  font-size: 22px;
 }
 
 .dhf-value {
+  font-weight: bold;
+  font-size: 26px;
   flex: 2;
+  color: #FF5E13;
 }
 
 .dhf-note {
