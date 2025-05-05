@@ -8006,3 +8006,10 @@ h2 {
 .footer-bottom p{
   color: #fff;
 }
+
+
+@media (min-width: 1025px) {
+  #footer .container-fluid{
+    margin-left: 120px;
+  }
+}
