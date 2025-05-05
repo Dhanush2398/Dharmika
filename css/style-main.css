@@ -7975,3 +7975,31 @@ h2 {
     width: 100%;
   }
 }
+
+
+
+.terms-section {
+  padding: 60px 20px;
+  background-color: #fff;
+}
+
+.terms-section .container {
+  width: 80%;
+  margin: 0 auto;
+}
+
+h1, h2 {
+  color: #FF5722;
+  margin-bottom: 15px;
+}
+
+p {
+  margin-bottom: 20px;
+  line-height: 1.6;
+  color: #000;
+}
+
+h2 {
+  margin-top: 40px;
+}
+
